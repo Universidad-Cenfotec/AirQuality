@@ -1,2 +1,2 @@
 # AirQuality
-Proyecto de medidor de calidad de aire
+Semáforo inteligente que permite conocer la calidad del aire. Se utiliza un sensor BME688 que permite diferentes mediciones, incluyendo la detección de gases volátiles orgánicos (VOC), humedad, temperatura y presión atmosférica. La placa ideaboard, combinada con el sensor BME688 y los relays nos permite una interpretación automática de las condiciones ambientales. Al usar el concepto de semáforo, con sus tres luces distintivas (verde, amarillo y rojo), se puede clasificar la calidad del aire en tres niveles (buen aire, aire moderadamente contaminado y aire extremadamente contaminado), respectivamente en los colores del semáforo.
