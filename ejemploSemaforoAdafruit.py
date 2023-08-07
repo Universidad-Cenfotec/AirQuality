@@ -174,7 +174,8 @@ while True:
         ib.pixel = ROJO # Calidad del aire: Extremadamente contaminado
     else:
         ib.pixel = NEGRO
-        
+
+    # Publica los datos a Adafruit.
     if (time.monotonic() - last) >= 10:
         print("Publishing {0} to Temperatura.".format(meanTemp))
         print("Publishing {0} to Humedad.".format(meanHumidity))
