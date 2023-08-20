@@ -1,0 +1,1 @@
+Se realizó la primera conexión del IdeaBoard a Adafruit para comenzar a hacer simulaciones de gráficos de las medidas recibidas por el sensor. Esto con la finalidad de comprender el funcionamiento y facilitar la conexión en fases posteriores.
