@@ -1,0 +1,1 @@
+En esta fase se unificó el código de medidas del sensor, cálculos de la calidad del aire y conexión con Adafruit. Esto con la finalidad de hacer una simulación más completa del semáforo en Adafruit. En la foto se puede observar como se recibían los datos y cambiaba el color del semáforo dependiendo de la calidad del aire, como será su funcionamiento en la vida real.
