@@ -1,1 +1,1 @@
-En esta fase final del proceso de creación, se llevó a cabo el montaje del semáforo inteligente y se determinó su ubicación potencial. También compartimos el código final que permitirá que el semáforo funcione y comparta datos a través de Adafruit.
+Se realizó la primera conexión del IdeaBoard a Adafruit para comenzar a hacer simulaciones de gráficos de las medidas recibidas por el sensor. Esto con la finalidad de comprender el funcionamiento y facilitar la conexión en fases posteriores.
